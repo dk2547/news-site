@@ -1,0 +1,25 @@
+
+.myform{
+    padding: 20px;
+    
+}
+.form-group{
+    
+
+}
+.myform label{
+    display: block;
+    margin-top: 20px;
+}
+.myform button{
+margin-top: 20px;
+}
+.fline{
+    margin: 5px;
+  /*  display: inline; */
+    
+}
+.sline{
+    display: inline;  
+
+}

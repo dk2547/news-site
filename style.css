@@ -1,0 +1,52 @@
+.heading{
+
+}
+hr{
+
+    border-style: solid;
+    margin-top: 20px;
+}
+.heading h1{
+    font-size: 75px;
+    font-weight:100;
+    margin-left: 120px;
+    margin-top: 50px;
+    line-height: 20px;
+    display: inline;
+    position: unset;
+   
+
+}
+
+p{
+    font-size: normal;
+    line-height: normal;
+
+}
+.box-1{
+    background-color:white;
+}
+.logo{
+    width: 60px;
+    display: inline;
+}
+.h{
+    display:inline-block
+}
+.brington{ 
+    font-size: 20px;
+    font-weight: 100;
+    
+    display: inline;
+}
+.menu h3{
+    display: inline;
+    margin:0px 120px;
+    color: dimgrey;
+    font-size: 95%;
+
+}
+.dog{
+    margin-top: 30px;
+
+}
